@@ -1,0 +1,107 @@
+body{
+	background: url('Thaipattern.jpg');
+	font-family: Papyrus;
+	font-weight:600;
+	color:#ffffff;
+}
+table.Főoldal{
+	margin:auto;
+	width: 55%;
+	background-color: #ff7600;
+	color: white;
+	border:4pt solid #00007f;
+	text-align: center;
+
+}
+
+td.linkek{
+font-size: 3em;
+text-align: left;
+color: white;
+
+}
+
+td.kicsi{
+	font-size: 1em ;		
+}
+
+li{
+	color:black;
+}
+
+a:link{
+	color: #00007f;
+
+}
+
+td.üdvözlő{
+	font-size:3em;
+	text-align:center;
+
+}
+
+p.árlista{
+font-size:2.5em;
+text-align:center;
+
+}
+
+table.kistábla{
+	text-align: justify;
+	font-size: 30px;
+	font-style: justify;
+
+
+	
+}
+
+td.kistábla{
+	text-align: center;
+	font-size: 35px;
+	border: 1px solid #00007f;
+	border-collapse: separate;
+	border-spacing: 5px;
+
+}
+
+table.szöveg{
+	text-align:justified;
+	
+}
+
+table.adatok{
+	text-align: justify;
+	font-size: 30px;
+	font-style: justify;
+
+}
+
+td.story{
+	text-align:justify;
+	font-size:25.5px
+}
+
+table.Vissza{
+	margin:auto;
+	background-color: #ff7600;
+	color: white;
+	border:4pt solid #00007f;
+	width:8,5%;
+}
+
+p.Preisliste{
+	font-size:3.5em;
+	text-align:center;
+}
+
+p.árlistahu{
+	font-size:3.5em;
+	text-align:center;
+
+}
+
+p.Galéria{
+	font-size:4em;
+	text-align:center;
+
+}
